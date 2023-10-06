@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A Rock Paper Scissors console game. In this program the player will choose either Rock, Paper or Scissors and compare their choice to the AI (it's actually just a While Loop that increments an Integer variable based on the switch statement results). The first player to reach 3 points wins!
+A Turn Based Battle System console game. In this program the player will fight against the enemy until either opponent has zero health points.
 The following topics are covered: `User Input`, `Random Object`, `While loops`, `Logical Operators`, `Classes`, `Methods`, `Fields`, `Properties` and `Conditional Statements`.
 
 
